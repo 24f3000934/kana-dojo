@@ -1127,7 +1127,7 @@
     "character": "Class Zero",
     "id": 113,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "生きるってのは、戦うってことだ",
@@ -1137,7 +1137,7 @@
     "character": "Ichiban Kasuga",
     "id": 114,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "この戦い、負けられない！",
@@ -1166,7 +1166,7 @@
     "game": "Persona 5 Strikers",
     "character": "Joker",
     "id": 117,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
